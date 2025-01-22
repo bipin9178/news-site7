@@ -72,7 +72,7 @@ switch ($page) {
   <!-- HEADER -->
   <div id="header">
     <!-- container -->
-    < class="container">
+    <div class="container">
       <!-- row -->
       <div class="row">
         <!-- LOGO -->
@@ -98,7 +98,7 @@ switch ($page) {
 
 
       </div>
-  </div>
+    </div>
   </div>
   <!-- /HEADER -->
   <!-- Menu Bar -->
