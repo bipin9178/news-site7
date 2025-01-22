@@ -66,6 +66,18 @@ switch ($page) {
   <link rel="stylesheet" href="css/font-awesome.css">
   <!-- Custom stlylesheet -->
   <link rel="stylesheet" href="css/style.css">
+
+  <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({
+        pageLanguage: 'en',
+        layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+      }, 'google_translate_element');
+    }
+  </script>
+
+  <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
 </head>
 
 <body>
@@ -95,7 +107,7 @@ switch ($page) {
           ?>
         </div>
         <!-- /LOGO -->
-
+        <div id="google_translate_element"></div>
 
       </div>
     </div>
