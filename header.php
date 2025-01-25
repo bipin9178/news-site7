@@ -56,6 +56,7 @@ switch ($page) {
 
 <head>
   <meta charset="UTF-8">
+  <link rel="shortcut icon" href="images/news.jpg">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
