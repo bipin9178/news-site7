@@ -72,7 +72,7 @@ switch ($page) {
     function googleTranslateElementInit() {
       new google.translate.TranslateElement({
         pageLanguage: 'en',
-        layout: google.translate.TranslateElement.InlineLayout.Hrizontal
+        layout: google.translate.TranslateElement.InlineLayout.simple
       }, 'google_translate_element');
     }
   </script>
